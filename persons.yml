@@ -1,5 +1,99 @@
 ---
 -
+  num: 1
+  event: 1
+  video_id: RHGaHWtGGh4
+  last_name: 澤井
+  last_kana: さわい
+  first_name: 律子
+  first_kana: りつこ
+  description: "2005年10月に「ひろしまきもの遊び」を発足。気軽に着物でお出かけしましょう、を合言葉に、催事にあわせたイベントや食事会、和文化セミナー、着物ライフをより楽しむためのワークショップなどを企画。現在は月に一度、「きもの遊びの日」として、着物カフェ＆バーをオープン。きものが好きな方、和が好きな方、きものライフを楽しんでいる人と交流したい方、そんな皆さんが気軽に集える時空間イベント。不定期でフリーペーパーも発行。"
+  roles:
+    - "ひろしまきもの遊び 主催"
+  facebook: sawairitsuko
+  organizations:
+    -
+      name: ひろしまきもの遊び
+      url: http://www.kimonoasobi.info/
+    -
+      name: ひろしまきもの遊び - Facebook Page
+      url: https://www.facebook.com/kimonoasobi
+
+-
+  num: 2
+  event: 1
+  video_id: TekB_ImULhM
+  last_name: 沖本
+  last_kana: おきもと
+  first_name: 和久
+  first_kana: かずひさ
+  description: "フリップミュージックは日本でただひとつのセレクトCDレンタルショップ。2011年8月のオープン以来、CDレンタルの他にCDレコード販売と北欧雑貨などを扱っていました。2014年8月にファンに惜しまれつつもクローズ。現在は地元アーティストのリリースやレーベル運営などを手がけ、精力的に活動中です。"
+  roles:
+    - "フリップミュージック 店主"
+  facebook: okazuhisa
+  organizations:
+    -
+      name: フリップミュージック
+      url: http://www.frippmusic.com/
+
+-
+  num: 3
+  event: 1
+  video_id: bF_1xfnWoWc
+  last_name: 溝口
+  last_kana: みぞぐち
+  first_name: 徹
+  first_kana: とおる
+  description: "一部好事家の間で今も語り継がれる「広島ステーションシネマレイトショウ」の構成/運営を経て、1999年から「横川シネマ!!」支配人。
+作品選定はもちろん、モギリから上映、イベントの司会まで1人でこなす。
+「広島の、じゃない方のミニシアター」の旗印のもと、映画上映以外のイベント～トークショー、ライブ演奏などなど～も多数実施。
+されど、やはり「映画上映」にこだわる映画人である。
+現在、2014年10月の横川シネマ!!リニューアルオープンに向けて、鋭意準備中。"
+  roles:
+    - "横川シネマ"
+  facebook: toru.mizoguchi.142
+  organizations:
+    -
+      name: 横川シネマ
+      url: http://yokogawa-cine.jugem.jp/
+
+-
+  num: 5
+  event: 2
+  video_id: 5tCXcLH4MhU
+  last_name: ゴトウ
+  first_name: イズミ
+  description: "原爆ドーム近くで音楽喫茶「ヲルガン座」、イベントスペース「ふらんす座」、カフェ「十日市アパート」を経営。ソロでアコーディオンの弾き語りをする音楽家としての一面を持ち、数々のミュージシャンとのセッション、ユニットも主宰。ヨーロッパでの音楽活動の経験のほか、イベントのオーガナイズや、MC、ライター活動、ラジオのパーソナリティなどもこなすなど、多方面でマルチな才能を発揮。近年は『地下音楽　現場物語』で映画制作デビューを果たした。"
+  roles:
+    - "アーティスト"
+    - "ヲルガン座"
+  facebook: izumi.goto.353
+
+-
+  num: 7
+  event: 2
+  video_id: Pf9FavhLpdk
+  last_name: 河口
+  last_kana: こうぐち
+  first_name: 知明
+  first_kana: ともあき
+  description: "尾道在住。「亀仙人」として日本のみならず世界のコスプレ界で伝説的存在である御年64歳のコスプレーヤーであり、コスプレイベント「コスカレード」主催者。クオリティの高いコスプレ衣装は全て自作で知られ、最近では「進撃の巨人」ドット・ピクシス司令など、長身にはえるさまざまなコスを披露。秋葉市長時の市委託による文化振興事業を、日本が世界に誇るサブカルチャー「コスプレ」イベントとして昇華させ、県内各地の市町村の協力もと、様々な趣向を凝らして開催。広島を、そして日本を盛り上げている。啓文社顧問、アートディレクト会長。当日の壇上ではなんと・・お楽しみに！"
+  roles:
+    - "コスカレード 主催"
+    - "コスプレイヤー"
+  facebook: kohguchi
+  organizations:
+    -
+      name: コスカレード
+      url: http://cosquerade.jp/
+    -
+      name: コスカレード - Twitter
+      url: https://twitter.com/cosquerade
+    -
+      name: コスカレード - Facebook Page
+      url: https://www.facebook.com/cosquerade
+
+-
   num: 8
   event: 2
   video_id: lVA0TO1OY6s
@@ -17,3 +111,75 @@
     -
       name: 栄諧情報システム株式会社
       url: http://eikai.co.jp/
+
+-
+  num: 9
+  event: 3
+  video_id: SKAIZcG4xRk
+  last_name: 藤井
+  last_kana: ふじい
+  first_name: 智康
+  first_kana: ともやす
+  description: "日本EVクラブ広島支部代表。会社員。映画「バック・トゥ・ザ・フューチャー」に登場する車「デロリアン」の電気自動車化を、映画の設定年である2015年を前に成し遂げた。"
+  roles:
+    - デロリアンＥＶ化計画
+    - 日本EVクラブ広島支部代表
+  facebook: tomoyasu.fujii
+  organizations:
+    -
+      name: デロリアンＥＶ化計画
+      url: http://delorean.tumblr.com/
+
+-
+  num: 10
+  event: 3
+  video_id: EkzgKOHTa6Y
+  last_name: 塩崎
+  last_kana: しおざき
+  first_name: 周司
+  first_kana: しゅうじ
+  description: "ソアラサービス社外取締役、サマンサジャパン株式会社顧問。妻の脳梗塞により広告企画会社社長を引退。中国新聞連載「これがオヤジの生きる道」、著書「妻のために生きる」など執筆活動で名高い。読書家としても知られ、刀や日本文化への思いもますます熱い。"
+  roles:
+    - 会社役員
+    - 作家
+  facebook: Shiozy
+  organizations:
+    -
+      name: 株式会社ソアラサービス 社外取締役
+      url: http://soa-r.net/
+    -
+      name: 著書 妻のために生きる
+      url: "http://www.amazon.co.jp/%E5%A6%BB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B-%E5%A1%A9%E5%B4%8E%E5%91%A8%E5%8F%B8-shiozy/dp/4862500706"
+
+-
+  num: 11
+  event: 3
+  video_id: ohAsY8oLYkQ
+  last_name: 吉野
+  last_kana: よしの
+  first_name: 瞬
+  first_kana: しゅん
+  description: "陶芸家。益子焼の窯元で8年間の修行を終え、初の個展を広島で開催。因島を拠点に、創作活動を続けている。金属作家の向井秀史さん、デザイナーの岡野琉美さんと「ART GALLERY シゲイノイエ」を運営。"
+  roles:
+    - 陶芸家
+  facebook: shun.yoshino1
+  organizations:
+    -
+      name: "シ ゲ イ ノ イ エ (S H I G E I - N O I E)"
+      url: https://www.facebook.com/shigeinoie.1681
+
+-
+  num: 12
+  event: 3
+  video_id: 8T5zDzOVL_Y
+  last_name: チャーリー
+  first_kana: ローズ
+  description: "陶アメリカ　オレゴン州生まれ。2012年春に立ち上げたブランド　\"Love Love by Charlie Rose\"とともに2013年広島県熊野町のAETとして来日、日本語を猛勉強中の新進デザイナー。"
+  roles:
+    - デザイナー
+    - モデル
+  facebook: charlie.hormann
+  organizations:
+    -
+      name: Love Love by Charlie Rose
+      url: http://charlieroselovelove.com/
