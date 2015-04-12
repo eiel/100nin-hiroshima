@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
 require 'ostruct'
 require 'yaml'
 require 'google/api_client'
@@ -90,7 +91,11 @@ flow = Google::APIClient::InstalledAppFlow.new(
 )
 client.authorization = flow.authorize
 
+event_number = ARGV[0]
+
 @persons.each do |person|
+  next if event_number && person['event'] != event_number.to_i
+
   event = events(person['event'])
   next if person['video_id'].nil?
   client.execute(
