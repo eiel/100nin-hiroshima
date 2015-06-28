@@ -109,6 +109,10 @@
     -
       name: コスカレード - Facebook Page
       url: https://www.facebook.com/cosquerade
+  links:
+    -
+      name: "亀仙人のコスプレで有名な河口さんの人生を楽しむ秘訣とは？～広島の楽しい100人・河口知明さん～"
+      url: http://tecre.jp/cosplay-kamesennin/
 
 -
   num: 8
@@ -146,7 +150,10 @@
     -
       name: デロリアンＥＶ化計画
       url: http://delorean.tumblr.com/
-
+  links:
+    -
+      name: "Back to the futureのデロリアンを電気自動車に改造する「デロリアンＥＶ化計画」～広島の楽しい100人・藤井智康さん～"
+      url: http://tecre.jp/back-to-the-future/
 -
   num: 10
   event: 3
@@ -184,6 +191,10 @@
     -
       name: "シ ゲ イ ノ イ エ (S H I G E I - N O I E)"
       url: https://www.facebook.com/shigeinoie.1681
+  links:
+    -
+      name: "尾道市因島に移住した若き陶芸家の“モノづくりで大切にしていること ～広島の楽しい100人・吉野瞬さん～ - Tecrre"
+      url: http://tecre.jp/onomichi-innoshima/
 
 -
   num: 12
@@ -204,6 +215,7 @@
 -
   num: 13
   event: 4
+  video_id: W82xt5yiZfA
   last_name: 竹中
   last_kana: たけなか
   first_name: 庸子
@@ -213,11 +225,15 @@
     - 介護福祉士
     - 認知症ケア専門士
     - ＮＰＯ法人もちもちの木
-  facebook: https://www.facebook.com/takenaka.yoko.3
+  facebook: takenaka.yoko.3
   organizations:
     -
       name: ＮＰＯ法人もちもちの木
       url: http://blog.canpan.info/mochimochinoki/
+  links:
+    -
+      name: 当日アンケートへの回答
+      url: https://www.facebook.com/h100parson/photos/a.1438197353122072.1073741828.1427131820895292/1571225683152571/?type=1
 -
   num: 14
   event: 4
@@ -236,6 +252,10 @@
     -
       name: 広島ものづくりジム
       url: http://monogym.net/
+  links:
+    -
+      name: "【楽しい100人 Vol.4】「広島ものづくりジム」プロのクリエイターが育てる、可能性の種"
+      url: http://www.rbbtoday.com/article/2015/05/08/131085.html
 -
   num: 15
   event: 4
@@ -248,6 +268,7 @@
   roles:
     - 大学教授
     - パンフルート
+    - あんこ研究会
   organizations:
     -
       name: "広島大学情報メディア教育研究センター 中村純資料室"
@@ -257,6 +278,7 @@
 -
   num: 16
   event: 4
+  video_id: pkkP4dGW5bU
   last_name: 平尾
   last_kana: ひらお
   first_name: 順平
@@ -264,9 +286,80 @@
   description: "ひろしまジン大学学長。学生時代、ユーラシア大陸横断などの旅をする。大学卒業後、財団法人日本国際協力センターに入団。JICA（国際協力機構）への出向も含め、各国の人材育成、教育案件を担当。国内外から広島を見つめ直す経験から、広島の魅力と可能性を感じ、これからの広島のために自分にできることをしたいと帰郷。広島平和文化センター勤務を経て、ひろしまジン大学を立ち上げた。"
   roles:
     - ひろしまジン大学学長
-  facebook: https://www.facebook.com/jumpei.hirao
+  facebook: jumpei.hirao
   twitter: JumpeiHirao
   organizations:
     -
       name: ひろしまジン大学
       url: http://hirojin.univnet.jp/
+  links:
+  -
+    name: 当日アンケートへの回答
+    url: https://www.facebook.com/h100parson/photos/a.1438197353122072.1073741828.1427131820895292/1570753879866418/
+-
+  num: 17
+  event: 5
+  video_id: mg-r8K6Wsgc
+  last_name: 住川
+  last_kana: すみかわ
+  first_name: 裕江
+  first_kana: ひろえ
+  description: "祖父が神楽団に所属しており、幼いころから神楽に親しむ。就職後神楽から遠ざかっていたが、10年前地元の秋祭りで見た神楽に衝撃を受け神楽団に入団。市内から北広島町大朝に毎週通い、笛を担当する。神楽鑑賞も年間70公演。カープ女子ブームを受け、広島のためにと昨年『ひろしま神楽女子』を立ち上げた。会員数は150名を超え、公演の手伝いや神楽に関するセミナーなどを開催している。"
+  roles:
+    - ひろしま神楽女子
+  facebook: hiroe.natsume.7
+  organizations:
+    -
+      name: ひろしま神楽女子
+      url: http://ameblo.jp/kagura-girl
+  links:
+  -
+    name: "【楽しい100人 Vol.9】カープ女子に負けるな！神楽で地域を活性化……「ひろしま神楽女子」"
+    url: http://www.rbbtoday.com/article/2015/06/16/132344.html
+-
+  num: 18
+  event: 5
+  video_id: ryInCmvcQug
+  last_name: 馬上
+  last_kana: ばじょう
+  first_name: 清治
+  first_kana: せいじ
+  description: "祖父が神楽団に所属しており、幼いころから神楽に親しむ。就職後神楽から遠ざかっていたが、10年前地元の秋祭りで見た神楽に衝撃を受け神楽団に入団。市内から北広島町大朝に毎週通い、笛を担当する。神楽鑑賞も年間70公演。カープ女子ブームを受け、広島のためにと昨年『ひろしま神楽女子』を立ち上げた。会員数は150名を超え、公演の手伝いや神楽に関するセミナーなどを開催している。"
+  roles:
+    - グローバルビジネス・プロデューサー
+  facebook: bajo.kiyoharu
+-
+  num: 19
+  event: 5
+  video_id: 2rhcwqW0u54
+  last_name: 三輪
+  last_kana: みわ
+  first_name: 康志
+  first_kana: やすし
+  description: "第4回登壇者中村純先生の、パンフルートのご縁からご紹介。奥様はシンガーソングライター・ピアニストの三輪 真理さん。三輪さんは奥様を支えるため、脱サラし専業主夫に。添加物を一切使わず栄養バランスに優れた料理を独自に追及し、奥様とお子さんの食べるものは全て三輪さんの手作り。その腕前は、「三輪食堂」と呼ばれるほど絶賛を浴びている。"
+  roles:
+    - スーパー専業主夫
+  twitter: yasushi_miwa
+  links:
+  -
+    name: "【楽しい100人 Vol.10】お父さんは我が家のヒーロー！イクメン＆クックメン…三輪康志氏"
+    url: http://www.rbbtoday.com/article/2015/06/25/132659.html
+-
+  num: 20
+  event: 5
+  video_id: eX1EVtFRAGA
+  last_name: 美音
+  last_kana: びおん
+  first_name: 異星人
+  first_kana: いせいじん
+  description: "1998年、豊島びおん（本名：豊島隆弘）が第1回岡本太郎記念現代芸術大賞展で「音感」を発表した際のパフォーマンスがきっかけで「美音異星人」が誕生。美音発生装置である「美音マシン」を操作し、全身バネだらけのアーティスト養成ギプスを装着するのが主な特徴。美音や身体性をテーマとした絵画、グラフィック、イラストレーション、音楽、映像なども随所で発表し海外にも活躍の場を拡げている。 最近では西条酒蔵芸術祭での展示が記憶に新しい。"
+  roles:
+    - パフォーマンスアーティスト
+  twitter: bioniseijin
+  links:
+  -
+    name: "Bion Iseijin"
+    url: http://bionartpower.wix.com/bion-iseijin
+  -
+    name: "美音異星人 - YouTube"
+    url: "https://www.youtube.com/playlist?list=PL7BTtjusiYz5NAK3mNLSXe9zc03xdPBAh"
