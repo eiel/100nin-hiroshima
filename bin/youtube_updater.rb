@@ -41,6 +41,7 @@ def description(person, event)
 1人15分、1度に4人まとめてお話を聞けます。
 会のあと、登壇者4人と直接お話しができる懇親会があります。
 
+Website: http://hiroshima.100person.jp
 facebook: https://www.facebook.com/h100parson
 twitter: https://twitter.com/hiroshima100nin
 doorkeeper: https://hiroshima100nin.doorkeeper.jp
