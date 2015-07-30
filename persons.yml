@@ -363,3 +363,79 @@
   -
     name: "美音異星人 - YouTube"
     url: "https://www.youtube.com/playlist?list=PL7BTtjusiYz5NAK3mNLSXe9zc03xdPBAh"
+-
+  num: 21
+  event: 6
+  video_id: 9ZAGV9Sp08E
+  last_name: 安彦
+  last_kana: あびこ
+  first_name: 恵理香
+  first_kana: えりか
+  description: "NGOピースボートに勤務後、広島へ移住。平和活動を通じた「人材育成」「社会貢献」に興味を持つ。「核廃絶 Yes!キャンペーン 」事務局長。2010年 核兵器について考えるアートブック「NOW！」制作・発刊。PROJECT NOW!を立ち上げ、これまでにアートイベントを25回開催。キヲクの再生プロジェクトでは100名を超えるアーティストが参加。ひろしまジン大学の授業コーディネーター。2015年は、社会で起きていることを語り合えるゲストハウスを企画中。"
+  roles:
+    - 社会イベントプランナー
+  twitter: abikoerika
+  facebook: hiroshimaomotenashihoudoukyoku
+  links:
+    -
+      name: "PeachWeek Hiroshima Nagasaki"
+      url: http://peaceweek-hironaga.com
+    -
+      name: ひろしまジン大学
+      url: http://hirojin.univnet.jp/
+    -
+      name: "Code for Hiroshima"
+      url: http://code4hiroshima.org
+-
+  num: 22
+  event: 6
+  video_id: BDY36J3qPn4
+  last_name: 宮地
+  last_kana: みやち
+  first_name: 弘充
+  first_kana: ひろみつ
+  description: "2012年広島で誕生し「なでしこリーグ１部」入りを目指す女子サッカーチーム、アンジュヴィオレ広島の広報を務める。本業は広告代理店のサラリーマンながら、横川商店街との仕事をきっかけにアンジュヴィオレ広島に関わり、精力的にアンジュヴィオレのために活動している。「紫色の天使」アンジュヴィオレは結成４年目にしてなでしこ２部まで昇格し、現在リーグ戦を戦っている。"
+  roles:
+    - "アンジュヴィオレ広島 広報"
+  twitter: cakoi.miyachi
+  facebook: cakoi_miyachi
+  links:
+    -
+      name: "cakoi"
+      url: http://cakoi.jimdo.com
+    -
+      name: "アンジュヴィオレ広島"
+      url: http://angeviolet.com
+-
+  num: 23
+  event: 6
+  video_id: FwAUCr8ef7k
+  last_name: 加藤
+  last_kana: かとう
+  first_name: 宇章
+  first_kana: たかふみ
+  description: "長崎市出身。幼稚園児から高齢の方まで、老若男女が幅広い造形美術やピアノ演奏に取組み、創造的活動を生活の一部として楽しむ創作の場　アトリエぱおの代表を務める。今年は被曝７０年として、子供による世界的平和アートプロジェクト「キッズゲルニカ　in ひろしま」を行い、7/24より元安川沿岸にて「こんにちは原爆ドーム展」を開催する。"
+  roles:
+    - "アトリエぱお 代表"
+  twitter: paopapa2
+  facebook: takafumi.kato1
+  organizations:
+    -
+      name: アトリエぱお
+      url: http://a-pao.com/
+-
+  num: 24
+  event: 6
+  video_id: dhs3YCd9Hqc
+  last_name: ヨンカース　　
+  last_kana: よんかーす
+  first_name: メンデル
+  first_kana: めんでる
+  description: "オランダ出身。代々続く鍛冶屋の家系に生まれ、家具やアート作品のクリエイターとして影響を受ける。ロンドンで映画美術セットの仕事をした後、１８年前に日本へ。「広島と恋に落ち」、現在では様々な広島のまちおこしプロジェクトの関係者として、広島のために日夜駆け回っている。将来はメンデルブランドの立ち上げも視野にいれている、マルチパーソン。"
+  roles:
+    - "ペチャクチャナイト広島 主催"
+  facebook: mendelhiroshima
+  organizations:
+    -
+      name: ペチャクチャナイト広島
+      url: https://www.facebook.com/PechaKuchaHiroshima
